@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env sh
 export PIVIO_SERVICE_URL="https://app.leanix.net/services/integrations/v2/pivio/document"
 export PIVIO_API_TOKEN="kCUVmpkf5uxqenc7SZBymEa4e8uME52tdmnH665z"
 echo "Pivio client started..."
