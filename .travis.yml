@@ -1,8 +1,8 @@
 sudo: required
 language: java
 before_install: | 
-  - docker pull leanix/pivio-client
-  - docker run leanix/pivio-client pivio -serviceurl "https://app.leanix.net/services/integrations/v2/pivio/document" -verbose -addfield "api_token=kCUVmpkf5uxqenc7SZBymEa4e8uME52tdmnH665z}"
+- docker pull leanix/pivio-client
+- docker run leanix/pivio-client pivio -serviceurl "https://app.leanix.net/services/integrations/v2/pivio/document" -verbose -addfield "api_token=kCUVmpkf5uxqenc7SZBymEa4e8uME52tdmnH665z}"
 
 services:
   - docker
