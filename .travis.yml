@@ -1,2 +1,2 @@
 language: java
-after_install: ./pivio-client.sh 
+after_success: ./pivio-client.sh 
