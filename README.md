@@ -29,3 +29,4 @@ It will take the specified API Token from `lxr.json` and automatically do a logi
 Uploads the report to the workspace configured in `lxr.json`.
 Please see [Uploading to LeanIX workspace](https://github.com/leanix/leanix-reporting-cli#uploading-to-leanix-workspace).
 # appstash-service-cart
+# appstash-service-cart
