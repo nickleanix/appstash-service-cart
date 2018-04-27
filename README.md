@@ -1,9 +1,1 @@
-# appstash-service-cart
-This is a test
-Update
-Update againlive in the training
-update
-Test
-Test
-Test
-Live
+27.4.2018
